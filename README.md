@@ -14,6 +14,11 @@ accounts based upon their interactions with each other. While its accuracy is su
 than 100%, a manual review of random accounts on the list show it to have a low rate of false 
 positives.
 
+Note: it's not possible to algorithmically analyse intent or support via graph analysis. 
+All we can tell is that there are a ton of connections and interactions within the BSV social graph. 
+As such, some anti-BSV accounts that have embedded themselves deeply into the BSV social graph 
+will be included in the results.
+
 How Do I Use It?
 ----------------
 

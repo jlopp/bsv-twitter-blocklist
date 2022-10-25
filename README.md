@@ -29,6 +29,11 @@ If you want a more user-friendly version then you may authorize my
 Twitter app (coming soon) to add the accounts from the CSV to your blocklist. Be aware that due to 
 rate limits imposed by the Twitter API, it will take as long as 12 hours to complete.
 
+Contributing
+----------------
+This list is algorithmically generated. Human edits / subjectivity will not be accepted because it's a 
+slippery slope down which I do not wish to venture. Feel free to fork and curate your own.
+
 License
 -------
 
